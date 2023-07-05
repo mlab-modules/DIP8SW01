@@ -12,5 +12,7 @@ images:
 - doc/img/DIP8SW01A_QRcode.png
 - doc/html/Pictures/image002.gif
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: DIP8SW01
