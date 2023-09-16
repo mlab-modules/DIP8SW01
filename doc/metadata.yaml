@@ -12,7 +12,7 @@ images:
 - doc/img/DIP8SW01A_QRcode.png
 - doc/html/Pictures/image002.gif
 mark: 50
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module
